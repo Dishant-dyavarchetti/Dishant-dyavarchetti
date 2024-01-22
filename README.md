@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and basic of programming 
 - 📫 How to reach me with Gmail:ddishaantmsccs2023@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: one of the funfact is you are bad in programming😂🤣
+- ⚡ Fun fact: one of the funfact is you are bad in programming and me too so we are here to help each other and learn something together😂🤣
 
 <!---
 Dishant-dyavarchetti/Dishant-dyavarchetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
